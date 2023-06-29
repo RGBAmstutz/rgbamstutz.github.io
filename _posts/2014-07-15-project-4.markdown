@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2022-11-01
 img: survivor_bill.gif
 alt: game.png
 project-date: Winter 2022

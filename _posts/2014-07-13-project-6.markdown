@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-13
+date: 2019-02-01
 img: space_smash.gif
 alt: game.png
 project-date: Winter 2019
