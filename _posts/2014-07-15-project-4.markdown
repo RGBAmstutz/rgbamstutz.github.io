@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2019-02-01
-img: space_smash.gif
+date: 2022-11-01
+img: survivor_bill.gif
 alt: game.png
-project-date: Winter 2019
-client: Personal Project
-category: 2D Game Development
-description: One of the first projects I made as part of a Udemy course on 2D game development. Features 6 unique levels with simple sound and particle effects as well as modified physics. The goal is similar to that of block breaker such that having the ball hit all possible blocks in the level progresses the game.
+project-date: Winter 2022
+client: University Personal Project
+category: Game Development
+description: During my studies at Concordia University, I took a course in Game Development and was tasked with creating a 2D/3D game project with a Halloween theme. I decided that creating a zombie survival 2D platformer with 3D background elements would be my best bet. The game features three different enemy types being zombie, witch and boss that all have dynamic spawn points. There are 3 distinct levels with game death conditions like missing too many shots.
 ---
