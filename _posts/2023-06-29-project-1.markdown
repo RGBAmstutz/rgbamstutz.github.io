@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2023-06-29
+img: cars_model.png
+alt: image-alt
+project-date: June 2023
+client: Personal Project
+category: Data Science
+description: Most recently I decided I wanted to showcase more applicable machine learning models so I decided I would create a car image multi-class classification model. The model has a 72% accuracy on its respective test set across 7 different car models using convolutional layers along with pooling. <br><br><a href=https://colab.research.google.com/drive/1FCUQIzm6q7KhgADPvrp7Kme7CFCAdN0a?usp=sharing>Source Code</a>
+---
