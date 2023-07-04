@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2023-01-01
+img: tweet_nlp.png
+alt: image-alt
+project-date: January 2023
+client: Personal Project
+category: Data Science
+description: After my studies at university I decided I wanted to try my hand at more machine learning, so I took a course in machine learning with TensorFlow on Udemy by Daniel Bourke. One of the projects involved making a natural disaster classifier for tweets. On the image above you'll see "Pred" this indicates the decision made by the model, 0 - indicating no disaster and 1 - indicating a natural disaster. The model performed with an 80% accuracy after training on ~7000 samples of data.  <br><br><a href="https://colab.research.google.com/drive/1Uc5Y5onuSEBL1rj2ZXYNYGKl-3WFmMrR?usp=sharing">Source Code</a>
+---
