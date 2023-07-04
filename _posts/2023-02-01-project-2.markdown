@@ -7,5 +7,5 @@ alt: image-alt
 project-date: February 2023
 client: Personal Project
 category: Data Science
-description: In order to take the TensorFlow Developer Certification, I had to feel prepared enough, so the purpose of this project was to brush up on timeseries forecast modeling before the exam. The purpose of the model was to be able to predict the average temperature in indian climates. The model had a loss of 1.19 (mae). As I was going through the TensorFlow course I realized that there are some problems we cannot model such as the price of Bitcoin. Share value and cryptocurrency are a part of a very volatile market which is mostly unpredictable.
+description: In order to take the TensorFlow Developer Certification, I had to feel prepared enough, so the purpose of this project was to brush up on timeseries forecast modeling before the exam. The purpose of the model was to be able to predict the average temperature in indian climates. The model had a loss of 1.19 (mae). As I was going through the TensorFlow course I realized that there are some problems we cannot model such as the price of Bitcoin. Share value and cryptocurrency are a part of a very volatile market which is mostly unpredictable. <br><br><a href="https://colab.research.google.com/drive/1XoQo_wMtrnJIXsDWHunw07lyUV9ZOv1d?usp=sharing">Source Code</a>
 ---
