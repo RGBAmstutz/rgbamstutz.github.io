@@ -7,5 +7,5 @@ alt: game.png
 project-date: January 2019
 client: Personal Project
 category: 2D Game Development
-description: One of the first projects I made as part of a Udemy course on 2D game development. Features 6 unique levels with simple sound and particle effects as well as modified physics. The goal is similar to that of block breaker such that having the ball hit all possible blocks in the level progresses the game.
+description: As one of the initial projects in the Udemy course on 2D game development, I created a game that encompasses six unique levels. The game incorporates simple sound and particle effects, along with modified physics. The objective is similar to that of a block breaker game, where hitting all the blocks in a level allows progression to the next stage.
 ---

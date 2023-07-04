@@ -7,5 +7,5 @@ alt: image-alt
 project-date: June 2023
 client: Personal Project
 category: Data Science
-description: Most recently I decided I wanted to showcase more applicable machine learning models so I decided I would create a car image multi-class classification model. The model has a 72% accuracy on its respective test set across 7 different car models using convolutional layers along with pooling. <br><br><a href=https://colab.research.google.com/drive/1FCUQIzm6q7KhgADPvrp7Kme7CFCAdN0a?usp=sharing>Source Code</a>
+description: Recently, I made the decision to focus on demonstrating practical machine learning models. As a result, I embarked on creating a multi-class classification model for car images. The model achieved an accuracy of 72% on its dedicated test set, encompassing 7 distinct car models. To accomplish this, I employed convolutional layers in conjunction with pooling techniques. <br><br><a href=https://colab.research.google.com/drive/1FCUQIzm6q7KhgADPvrp7Kme7CFCAdN0a?usp=sharing>Source Code</a>
 ---
