@@ -4,5 +4,6 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+AGENTS.md
 
 Gemfile.lock
